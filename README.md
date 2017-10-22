@@ -23,3 +23,8 @@ Run `ng e2e` to execute the end-to-end tests
 
 ## Further help
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Here are a few screenshots from the app:
+<img width="500" src="src//assets/images/screenshots/home.png" border="0" />
+<br /><br />
+<img width="500" src="src/assets/images/screenshots/about.png" border="0" />
