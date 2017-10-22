@@ -7,6 +7,11 @@ The objective of this quick start application is to provide a simple way to get 
 * npm: `version 3.10.10`
 * TypeScript: `version 2.5.3`
 
+### Key Functionality:
+Following functionality applied on the top of key features and functionality comes with Angular CLI default project creation.
+* Router module for routing
+* Bootstrap responsive template with navigate menu
+
 ## Running the Application
 1. Run `npm install`
 1. Run `ng serve`
