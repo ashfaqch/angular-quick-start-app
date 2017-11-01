@@ -23,6 +23,6 @@ The objective of this quick start application is to provide a simple way to get 
 * To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Screenshots
-<img width="500" src="src//assets/images/screenshots/home.png" border="0" />
+<img width="500" src="src//assets/images/screenshots/home-page.png" border="0" />
 <br /><br />
-<img width="500" src="src/assets/images/screenshots/about.png" border="0" />
+<img width="500" src="src/assets/images/screenshots/about-page.png" border="0" />
