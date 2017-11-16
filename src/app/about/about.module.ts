@@ -16,8 +16,7 @@ const routes: Routes = [
     declarations: [
         AboutComponent
     ],
-    providers: [
-    ]
+    providers: []
 })
 export class AboutModule {
 }

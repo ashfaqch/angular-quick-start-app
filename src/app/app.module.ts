@@ -2,22 +2,21 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
-import { NavMenuComponent } from './navmenu/navmenu.component';
-import { HomeComponent } from './home/home.component';
 import { AppRoutingModule } from './app.routing.module';
+import { AppStartupModule } from './app.startup.module';
 
 @NgModule({
     imports: [
         BrowserModule,
-        AppRoutingModule
+        AppRoutingModule,
+        AppStartupModule
     ],
     declarations: [
-        AppComponent,
-        NavMenuComponent,
-        HomeComponent
+        AppComponent
     ],
-    providers: [],
-    bootstrap: [AppComponent]
+    bootstrap: [
+        AppComponent
+    ]
 })
 export class AppModule {
 }
