@@ -1,8 +1,8 @@
 # Angular Quick Start App
 The objective of this quick start application is to provide a simple way to get started with Angular 4 application. This sample application relies on Angular CLI to build the run.
 
-[![GitHub forks](https://github.com/ashfaqch/angular-quick-start-app.git.svg?style=social&label=Fork)](https://github.com/ashfaqch/angular-quick-start-app.git/fork)
-[![GitHub stars](https://github.com/ashfaqch/angular-quick-start-app.git.svg?style=social&label=Star)](https://github.com/ashfaqch/angular-quick-start-app.git)
+[![GitHub forks](https://img.shields.io/github/forks/ashfaqch/angular-quick-start-app.svg?style=social&label=Fork)](https://github.com/ashfaqch/angular-quick-start-app/fork)
+[![GitHub stars](https://img.shields.io/github/stars/ashfaqch/angular-quick-start-app.svg?style=social&label=Star)](https://github.com/ashfaqch/angular-quick-start-app)
 
 ### This application is generated with:
 * [Angular CLI](https://github.com/angular/angular-cli) `version 1.4.7`
